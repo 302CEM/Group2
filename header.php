@@ -12,7 +12,7 @@
                 <li><a href="#">BOOKING TICKET</a></li>
                 <li><a href="Contact.html">CONTACT US</a></li>
                 <li><font color="white"><b>|</b></font></li>
-                <li><a href="#">LOGIN/SIGNUP</a></li>
+                <li><a href="#">LOGIN/REGISTER</a></li>
             </ul>
         </div>
 </html>
